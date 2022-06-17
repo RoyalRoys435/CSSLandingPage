@@ -1,2 +1,2 @@
-# CssLandingPage
-css responsive
+# CSSResponsivenessLanding
+css landing page responsive media querries
